@@ -76,6 +76,5 @@ public class App
         System.out.println( "Hola Mundo Mundial!" );
         System.out.println( "Hola Mundo Mundial!" );
         System.out.println( "Hola Mundo Mundial!" );
-        System.out.println( "Hola Mundo Mundial!" );
     }
 }
